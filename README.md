@@ -10,3 +10,11 @@ Sistema criado para aprendizado do framework React e aperfeiçoamento de buscas 
 
 > API: ViaCerta para buscar o CEP e validar
 
+Após o CEP ser encontrado é informado para quem está solicitantdo os seguintes dados
+
+### Dados Retornados
+* CEP
+* Complemento
+* Bairro
+* Cidade
+* Estado
